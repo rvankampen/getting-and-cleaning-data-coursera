@@ -14,9 +14,9 @@
 
 ## Measurements
 
-Time:
+##Time:
 
-Body Acceleration Mean (X/Y/Z)
+###Body Acceleration Mean (X/Y/Z)
 * `tBodyAccMeanX`
 * `tBodyAccMeanY`
 * `tBodyAccMeanZ`
